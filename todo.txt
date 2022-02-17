@@ -1,0 +1,5 @@
+Todo-wishlist for parts to make symbols+footprints for.
+
+MAR-6 mmic
+TDA9901 DVGA
+SL1601DCT clockgen
